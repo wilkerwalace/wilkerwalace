@@ -8,8 +8,8 @@
 
 <div align="left">
   <a href="https://github.com/wilkerwalace">
-    <img width="400px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=wilkerwalace&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Kayo Galdino github stats" />
-    <img width="400px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkerwalace&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
+    <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=wilkerwalace&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Kayo Galdino github stats" />
+    <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkerwalace&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
     <a href="https://app.daily.dev/wilkerwalace"><img src="https://api.daily.dev/devcards/v2/E80zRFkbDnnsaJNZTUH1X.png?type=default&r=zo4" width="356" alt="Walace Wilker Lima Silva's Dev Card"/></a>
   </a>
 </div>
